@@ -5,9 +5,9 @@
       <map>
         <entry key="app/src/main/res/layout/activity_details.xml" value="0.2526041666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2526041666666667" />
-        <entry key="app/src/main/res/layout/fragment_details.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/fragment_details.xml" value="0.165" />
         <entry key="app/src/main/res/layout/fragment_list.xml" value="0.2526041666666667" />
-        <entry key="app/src/main/res/layout/item_layout.xml" value="0.2515625" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.2471649169921875" />
       </map>
     </option>
   </component>
