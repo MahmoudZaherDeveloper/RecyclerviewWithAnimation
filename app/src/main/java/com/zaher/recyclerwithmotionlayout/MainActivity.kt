@@ -24,9 +24,8 @@ class MainActivity : AppCompatActivity() {
         for (i in 1..20) {
             data.add(ItemsViewModel(R.drawable.ic_launcher_foreground, "Item " + i))
         }
-
         // This will pass the ArrayList to our Adapter
-        val adapter = CustomAdapter(data)
+        val adapter = RecyclerAdapter(data)
 
         // Setting the Adapter with the recyclerview
         recyclerview.adapter = adapter
